@@ -1,7 +1,7 @@
-## TaniKami - Capstone Project - Bankit Academy 2023 batch 1
+## TaniKami - Capstone Project - Bangkit Academy 2023 batch 1
 _What is TaniKami?_
 
-TaniKami is our group project for Bangkit Capstone Project 2023 (Product Based), this app is used to solve problem for farmer, like farmer can sell their own product or harvest here directly to consumers. This app also used to educate farmer about farming using article, and one of this app feature that is detecting disease in plan is also one of most ML implementation in this app.
+TaniKami is our group project for Bangkit Capstone Project 2023 (Product Based), this app is used to solve problem for farmer, like farmer can sell their own product or harvest here directly to consumers or buyers. This app also used to educate farmer about farming using article, and one of this app feature that is detecting disease in plan is also one of most ML implementation in this app.
 
 **MVP Completion Goals : App can be used for transaction (manually), and detecting disease in plants using ML models.**
 
