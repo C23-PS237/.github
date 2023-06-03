@@ -5,7 +5,7 @@ TaniKami is our group project for Bangkit Capstone Project 2023 (Product Based),
 
 **MVP Completion Goals : App can be used for transaction (manually), and detecting disease in plants using ML models.**
 
-## Contributed by :
+## Contributed by
 6 (Six) Bangkit Cohorts from 3 different learning paths Mobile Development, Machine Learning and Cloud Computing
 
 ## Our Members of C23-PS237
